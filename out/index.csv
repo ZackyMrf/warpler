@@ -1,2 +1,0 @@
-fid,rarityScore,traits,json,png,signature,sig_error
-245473,-1,"ERROR: HTTP 503: {""error"":""Service temporarily unavailable, please try again in a moment""} (check URL, API key or rate limits)",,,,"HTTP 500: {""error"":""Failed to fetch or upload warplet to IPFS""} (check URL, API key or rate limits)"
